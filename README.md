@@ -1,5 +1,3 @@
-# BPMN-Diagram-1
-
 **Ice Cream Shop BPMN Model**
 
 This repository contains a BPMN (Business Process Model and Notation) diagram representing the workflow of an Ice Cream Shop. The model outlines the step-by-step interactions between the Customer, Store, Cashier, and Ice Cream Artist, covering processes such as ordering, payment, and ice cream preparation.
